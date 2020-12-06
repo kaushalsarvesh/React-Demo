@@ -13,6 +13,7 @@ const HooksComponent = () => {
         <div className="col-sm-12">
           <div className="form-group">
             <label>Enter First Name</label>
+            <label>Enter First Update</label>
 
             <input
               type="text"
